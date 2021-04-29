@@ -1,5 +1,5 @@
 # Super_Tutorial
-## Tutorial on environment setting in Ubuntu20.04 for ROS2 and DL developers
+## Tutorial on environment setting in Ubuntu20.04 for ROS2 and DL developers in China
 ### 一
 1. 镜像文件烧录，见百度网盘
 2. 安好ubuntu先装驱动，直接软件与更新选择附加驱动，tested，apply，然后重启，nvidia-smi测试
